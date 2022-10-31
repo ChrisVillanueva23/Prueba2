@@ -1,0 +1,251 @@
+body {
+    background-color: #F7F7F7;
+    width: 100%;
+    height: 100%;
+    background-image: url(Fondo.jpeg);
+    background-repeat: no-repeat;
+    background-size: 500px 650px;
+    background-position: left;
+    background-attachment: fixed;
+    margin: 0px;
+   }
+   
+   .titulo {
+       width: 100px;
+       height: 100px;
+       font-family: "Brush Script MT";
+       font-size: 80px;
+       margin: 20px;
+       color: #A04000;
+       letter-spacing: 5px;
+       margin-bottom: 0px;
+       margin-left: 60px;
+   }
+   
+   .subtitulo {
+       margin: 0px;
+       font-family: "Brush Script MT";
+       font-size: 30px;
+       color: #A04000;
+   }
+       
+   .logo {
+       width: 300px;
+       height: 300px;
+       background-size: 100px 100px;
+       margin-left: 20px;
+   }
+   
+   .uno {
+     margin-left: 100px;
+     margin-right: 0px;
+   }
+   
+   .dos {
+       margin-left: 60px;
+       margin-right: 0px;
+   }
+   
+   .titulo3 {
+       float: right;
+       color: #FF9B00;
+       margin-right: 400px;
+       margin-top: 30px;
+   }
+   
+   .primercuadro {
+       width: 600px;
+       height: 350px;
+       border-style: double;
+       border-color: black;
+       border-radius: 10px;
+       text-align: justify;;
+       float: right;
+       margin-right: 190px;
+       padding: 10px;
+       background-image: linear-gradient(to bottom, #FF9B00, #A04000);
+       font-family: "Arial";
+       font-size: 19px;
+   }
+   
+   
+   .segundocuadro {
+       width: 300px;
+       height: 300px;
+       border-style: double;
+       border-color: black;
+       border-radius: 10px;
+       text-align: justify;;
+       float: left;
+       margin-left: 50px;
+       margin-top: 40px;
+       padding: 10px; 
+       background-image: linear-gradient(to left, #FF9B00, #A04000);
+       font-family: "Arial";
+       font-size: 19px;
+   } 
+   
+   .logo2 {
+       width: 300px;
+       height: 300px;
+       background-size: 100px 100px;
+       margin-top: 50px;
+       float: left;
+   }
+   
+   .tercercuadro {
+       width: 300px;
+       height: 330px;
+       border-style: double;
+       border-color: black;
+       border-radius: 10px;
+       text-align: justify;;
+       float: left;
+       padding: 10px; 
+       padding-bottom: 20px;
+       margin-top: 20px;
+       background-image: linear-gradient(to right, #FF9B00, #A04000);
+       font-family: "Arial";
+       font-size: 19px;
+   }
+   
+   .cuartocuadro {
+       width: 300px;
+       height: 165px;
+       border-style: double;
+       border-color: black;
+       border-radius: 10px;
+       text-align: justify;;
+       float: left;
+       margin-left: 20px;
+       padding: 10px; 
+       padding-top: 1px;
+       margin-top: 75px;
+       background-image: linear-gradient(to left, #FF9B00, #A04000);
+       font-family: "Arial";
+       font-size: 19px;
+       margin-bottom: 20px;
+   }
+   
+   .quintocuadro {
+       width: 300px;
+       height: 150px;
+       border-style: double;
+       border-color: black;
+       border-radius: 10px;
+       text-align: justify;;
+       float: left;
+       margin-left: 20px;
+       padding: 10px; 
+       padding-top: 1px;
+       margin-top: 90px;
+       margin-bottom: 20px;
+       background-image: linear-gradient(to right, #FF9B00, #A04000);
+       font-family: "Arial";
+       font-size: 19px;
+   }
+   
+   .ventosa {
+       width: 300px;
+       height: 300px;
+       background-size: 100px 100px;
+       /*margin-bottom: 50px;*/
+       float: left;  
+       margin-left: 30px;
+       margin-top: 50px;
+       border: solid;
+   }
+   
+   .Moxibustion {
+       width: 330px;
+       height: 250px;
+       background-size: 100px 20px;
+       margin-top: 80px;
+       float: left;
+       margin-left: 30px;
+       /*margin-bottom: 60px;*/
+       border: solid;
+   }
+   
+   .sala {
+       width: 250px;
+       height: 250px;
+       background-size: 100px 100px;
+       margin-bottom: 50px;
+       float: left; 
+       margin-left: 30px;
+       margin-top: 30px;
+       border: solid;
+   }
+   
+   .costos {
+       width: 200px;
+       height: 120px;
+       text-align: justify;;
+       margin-left: 10px;
+       padding: 10px; 
+       padding-top: 1px;
+       margin-bottom: 60px;    
+       margin-top: 20px;
+       font-family: "Arial";
+       font-size: 19px;
+       border-style: none;
+       float:left
+   }
+   
+   
+   .contacto {
+       width: 350px;
+       height: 10px;
+       /*text-align: justify;;*/
+       margin-left: 10px;
+       padding: 10px; 
+       padding-top: 1px;
+       margin-bottom: 60px;    
+       margin-top: 10px;
+       /*margin-top: 100px;*/
+       font-family: "Arial";
+       font-size: 19px;
+       float: left;
+       border-style: none;
+       list-style-type: none;
+       line-height: 5px;
+   }
+   
+   .ubicación {
+       width: 350px;
+       height: 10px;
+       /*text-align: justify;;*/
+       margin-left: 20px;
+       padding: 10px; 
+       padding-top: 1px;
+       margin-bottom: 60px;    
+       /*margin-top: 100px;*/
+       font-family: "Arial";
+       font-size: 19px;
+       float: left;
+       border-style: none;
+       list-style-type: none;
+       line-height: 5px; 
+   }
+   
+   .social-bar {
+       position: relative;
+       right: 0;
+       top: 35%;
+       font-size: 1.5rem;
+       display: flex;
+       flex-direction: column;
+       align-items: flex-end;
+       z-index: 100;
+       margin-right: 10px;
+   }
+   
+   .whatsapp:hover {
+       transform: scale(1.07, 1.07);
+   }
+   
+   
+   .gmail:hover {
+       transform: scale(1.07, 1.07);
+   }
